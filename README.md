@@ -1,4 +1,4 @@
-# Universe-Database
+# Celestial-Bodies-Database
 
 Celestial bodies or heavenly bodies are objects in space such as the sun, moon, planets, and stars.
 
